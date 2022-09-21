@@ -1,0 +1,16 @@
+                 -------Description of the folder---------
+
+tsbs-master: Contain all the requirement code for the benchmarking operation.
+
+questdb-6.2.1-rt-linux-amd64:This folder contains the installation code for the questdb.
+
+questdb-data.gz: Contains a compressed sample of the data that has been generated for one test.
+
+run_it_devops_influx.sh: Due to it was very difficult to do manually the tests for so many use cases, this bash script was created in order to automate the benchmarking procedure for the influxdb.  
+
+run_it_devops_devops.sh: Due to it was very difficult to do manually the tests for so many use cases, this bash script was created in order to automate the benchmarking procedure for the questdb.
+
+Usecases.ods: Contains the benchmarking measurements for 2 usecases:
+ -At the first the number of sampling frequency is decreased, keeping the number of devices constant.
+ 
+ -At the second, the sampling frequency is hold constant and the number of devices is increased.
