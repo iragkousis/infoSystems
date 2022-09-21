@@ -1,0 +1,177 @@
+{"query":"drop table net","error":"table 'net' does not exist","position":14}{"query":"drop table kernel","error":"table 'kernel' does not exist","position":17}{"query":"drop table diskio","error":"table 'diskio' does not exist","position":17}{"query":"drop table mem","error":"table 'mem' does not exist","position":14}{"query":"drop table nginx","error":"table 'nginx' does not exist","position":16}{"query":"drop table postgresl","error":"table 'postgresl' does not exist","position":20}{"query":"drop table redis","error":"table 'redis' does not exist","position":16}{"query":"drop table disk","error":"table 'disk' does not exist","position":15}{"query":"drop table ArgonAir","error":"table 'ArgonAir' does not exist","position":19}{"query":"drop table cpu","error":"table 'cpu' does not exist","position":14}######################################################### DATA HAS ΒΕΕΝ GENERATRD #############################################################
+Bulk loading file /tmp/questdb-data.gz
+Status: Healthy{"query":"drop table cpu","error":"table 'cpu' does not exist","position":14}time,per. metric/s,metric total,overall metric/s,per. row/s,row total,overall row/s
+1653859643,1109757.23,1.110948E+07,1109757.23,98893.89,9.900000E+05,98893.89
+1653859653,1156063.39,2.266960E+07,1132897.38,103004.58,2.020000E+06,100948.09
+1653859663,1133150.87,3.400118E+07,1132981.85,100999.36,3.030000E+06,100965.17
+1653859673,1144862.52,4.545024E+07,1135951.33,101996.13,4.050000E+06,101222.85
+1653859683,1077071.15,5.621988E+07,1124178.76,96009.55,5.010000E+06,100180.50
+1653859693,1110999.22,6.733056E+07,1121982.41,98993.87,6.000000E+06,99982.75
+1653859703,1010111.03,7.743164E+07,1106003.19,90000.27,6.900000E+06,98556.90
+1653859713,1010221.88,8.753382E+07,1094032.11,90000.35,7.800000E+06,97487.47
+1653859723,1189392.60,9.942820E+07,1104626.87,105995.95,8.860000E+06,98432.78
+1653859733,1144698.25,1.108745E+08,1108633.35,102006.44,9.880000E+06,98790.09
+1653859743,1166987.48,1.225448E+08,1113937.97,103996.03,1.092000E+07,99263.33
+1653859753,1133513.80,1.338799E+08,1115569.15,100999.80,1.193000E+07,99408.02
+1653859763,1156060.05,1.454402E+08,1118683.51,103002.68,1.296000E+07,99684.51
+1653859773,1167186.40,1.571115E+08,1122147.59,104005.20,1.400000E+07,99993.09
+1653859783,1099707.49,1.681096E+08,1120651.55,97991.04,1.498000E+07,99859.62
+1653859793,1076967.90,1.788794E+08,1117921.49,95999.28,1.594000E+07,99618.36
+1653859803,1043617.68,1.893155E+08,1113550.96,93000.15,1.687000E+07,99229.08
+1653859813,1133886.09,2.006533E+08,1114680.52,101009.45,1.788000E+07,99327.97
+1653859823,1110927.32,2.117626E+08,1114482.99,99000.30,1.887000E+07,99310.73
+1653859833,1110903.29,2.228716E+08,1114304.02,98999.58,1.986000E+07,99295.17
+1653859843,1077539.62,2.336475E+08,1112553.34,95995.87,2.082000E+07,99138.06
+1653859853,1167144.02,2.453187E+08,1115034.56,104002.50,2.186000E+07,99359.16
+1653859863,1133095.19,2.566504E+08,1115819.82,100993.15,2.287000E+07,99430.20
+1653859873,1054786.37,2.671981E+08,1113276.91,94001.46,2.381000E+07,99204.02
+1653859883,1077654.41,2.779738E+08,1111852.17,96006.99,2.477000E+07,99076.15
+1653859893,908984.23,2.870638E+08,1104049.72,80998.59,2.558000E+07,98380.88
+1653859903,1200394.57,2.990688E+08,1107618.20,106991.14,2.665000E+07,98699.79
+1653859913,1111142.29,3.101799E+08,1107744.05,99002.34,2.764000E+07,98710.59
+1653859923,1055229.76,3.207315E+08,1105933.40,94006.39,2.858000E+07,98548.40
+1653859933,1122000.54,3.319516E+08,1106468.96,99998.98,2.958000E+07,98596.75
+1653859943,1178278.94,3.437343E+08,1108785.32,105000.80,3.063000E+07,98803.32
+1653859953,1122145.03,3.549560E+08,1109202.81,99997.95,3.163000E+07,98840.65
+1653859963,1133655.30,3.662926E+08,1109943.77,101000.12,3.264000E+07,98906.09
+1653859973,1189280.94,3.781862E+08,1112277.31,105992.24,3.370000E+07,99114.51
+1653859983,999165.03,3.881775E+08,1109045.75,89003.48,3.459000E+07,98825.65
+1653859993,1155464.47,3.997324E+08,1110335.15,102997.72,3.562000E+07,98941.54
+1653860003,1077493.09,4.105073E+08,1109447.56,96000.28,3.658000E+07,98862.05
+
+Summary:
+loaded 418867200 metrics in 377.305sec with 2 workers (mean rate 1110155.37 metrics/sec)
+loaded 37324800 rows in 377.305sec with 2 workers (mean rate 98924.74 rows/sec)
+#########################################################  DATA HAS ΒΕΕΝ LOADED   #############################################################
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = single-groupby-1-1-1
+Added index to hostname column of cpu table
+Run complete after 1000 queries with 8 workers (Overall query rate 927.35 queries/sec):
+QuestDB 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     0.50ms, med:     6.03ms, mean:     7.60ms, max:   99.25ms, stddev:    10.43ms, sum:   7.6sec, count: 1000
+all queries                                                    :
+min:     0.50ms, med:     6.03ms, mean:     7.60ms, max:   99.25ms, stddev:    10.43ms, sum:   7.6sec, count: 1000
+wall clock time: 1.114007sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = single-groupby-1-1-12
+Run complete after 1000 queries with 8 workers (Overall query rate 721.10 queries/sec):
+QuestDB 1 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     1.53ms, med:    10.58ms, mean:    10.88ms, max:   21.23ms, stddev:     1.74ms, sum:  10.9sec, count: 1000
+all queries                                                     :
+min:     1.53ms, med:    10.58ms, mean:    10.88ms, max:   21.23ms, stddev:     1.74ms, sum:  10.9sec, count: 1000
+wall clock time: 1.397680sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = single-groupby-1-8-1
+Run complete after 1000 queries with 8 workers (Overall query rate 1333.09 queries/sec):
+QuestDB 1 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     0.75ms, med:     5.74ms, mean:     5.85ms, max:   16.75ms, stddev:     1.09ms, sum:   5.9sec, count: 1000
+all queries                                                    :
+min:     0.75ms, med:     5.74ms, mean:     5.85ms, max:   16.75ms, stddev:     1.09ms, sum:   5.9sec, count: 1000
+wall clock time: 0.758620sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = single-groupby-5-1-1
+Run complete after 1000 queries with 8 workers (Overall query rate 1130.40 queries/sec):
+QuestDB 5 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     0.63ms, med:     4.65ms, mean:     6.41ms, max:   50.27ms, stddev:     5.90ms, sum:   6.4sec, count: 1000
+all queries                                                    :
+min:     0.63ms, med:     4.65ms, mean:     6.41ms, max:   50.27ms, stddev:     5.90ms, sum:   6.4sec, count: 1000
+wall clock time: 0.896943sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = single-groupby-5-1-12
+Run complete after 1000 queries with 8 workers (Overall query rate 401.15 queries/sec):
+QuestDB 5 cpu metric(s), random    1 hosts, random 12h0m0s by 1m:
+min:     6.26ms, med:    19.32ms, mean:    19.71ms, max:   32.39ms, stddev:     2.06ms, sum:  19.7sec, count: 1000
+all queries                                                     :
+min:     6.26ms, med:    19.32ms, mean:    19.71ms, max:   32.39ms, stddev:     2.06ms, sum:  19.7sec, count: 1000
+wall clock time: 2.506533sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = single-groupby-5-8-1
+Run complete after 1000 queries with 8 workers (Overall query rate 833.93 queries/sec):
+QuestDB 5 cpu metric(s), random    8 hosts, random 1h0m0s by 1m:
+min:     2.39ms, med:     9.22ms, mean:     9.43ms, max:   21.50ms, stddev:     1.42ms, sum:   9.4sec, count: 1000
+all queries                                                    :
+min:     2.39ms, med:     9.22ms, mean:     9.43ms, max:   21.50ms, stddev:     1.42ms, sum:   9.4sec, count: 1000
+wall clock time: 1.209031sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = cpu-max-all-1
+Run complete after 0 queries with 8 workers (Overall query rate 0.00 queries/sec):
+all queries:
+min:     0.00ms, med:     0.00ms, mean:     0.00ms, max:    0.00ms, stddev:     0.00ms, sum:   0.0sec, count: 0
+wall clock time: 0.001304sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = cpu-max-all-8
+Run complete after 0 queries with 8 workers (Overall query rate 0.00 queries/sec):
+all queries:
+min:     0.00ms, med:     0.00ms, mean:     0.00ms, max:    0.00ms, stddev:     0.00ms, sum:   0.0sec, count: 0
+wall clock time: 0.001338sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = double-groupby-1
+Run complete after 1000 queries with 8 workers (Overall query rate 7.37 queries/sec):
+QuestDB mean of 1 metrics, all hosts, random 12h0m0s by 1h:
+min:   117.28ms, med:   133.25ms, mean:  1081.04ms, max: 14727.68ms, stddev:  2868.30ms, sum: 1081.0sec, count: 1000
+all queries                                               :
+min:   117.28ms, med:   133.25ms, mean:  1081.04ms, max: 14727.68ms, stddev:  2868.30ms, sum: 1081.0sec, count: 1000
+wall clock time: 135.699825sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = double-groupby-5
+Run complete after 1000 queries with 8 workers (Overall query rate 5.68 queries/sec):
+QuestDB mean of 5 metrics, all hosts, random 12h0m0s by 1h:
+min:   153.57ms, med:   177.48ms, mean:  1403.67ms, max: 16030.72ms, stddev:  3339.86ms, sum: 1403.7sec, count: 1000
+all queries                                               :
+min:   153.57ms, med:   177.48ms, mean:  1403.67ms, max: 16030.72ms, stddev:  3339.86ms, sum: 1403.7sec, count: 1000
+wall clock time: 176.251314sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = double-groupby-all
+Run complete after 1000 queries with 8 workers (Overall query rate 4.29 queries/sec):
+QuestDB mean of 10 metrics, all hosts, random 12h0m0s by 1h:
+min:   197.18ms, med:   233.75ms, mean:  1858.87ms, max: 19041.28ms, stddev:  3853.19ms, sum: 1858.9sec, count: 1000
+all queries                                                :
+min:   197.18ms, med:   233.75ms, mean:  1858.87ms, max: 19041.28ms, stddev:  3853.19ms, sum: 1858.9sec, count: 1000
+wall clock time: 233.367739sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = high-cpu-all
+Run complete after 1000 queries with 8 workers (Overall query rate 9.63 queries/sec):
+QuestDB CPU over threshold, all hosts:
+min:   165.25ms, med:   802.59ms, mean:   829.15ms, max: 2635.14ms, stddev:   219.36ms, sum: 829.2sec, count: 1000
+all queries                          :
+min:   165.25ms, med:   802.59ms, mean:   829.15ms, max: 2635.14ms, stddev:   219.36ms, sum: 829.2sec, count: 1000
+wall clock time: 103.845462sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = high-cpu-1
+Run complete after 1000 queries with 8 workers (Overall query rate 537.06 queries/sec):
+QuestDB CPU over threshold, 1 host(s):
+min:     0.63ms, med:    14.13ms, mean:    14.52ms, max:   34.51ms, stddev:     5.34ms, sum:  14.5sec, count: 1000
+all queries                          :
+min:     0.63ms, med:    14.13ms, mean:    14.52ms, max:   34.51ms, stddev:     5.34ms, sum:  14.5sec, count: 1000
+wall clock time: 1.876898sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = lastpoint
+Run complete after 1000 queries with 8 workers (Overall query rate 2273.50 queries/sec):
+QuestDB last row per host:
+min:     0.51ms, med:     3.39ms, mean:     3.43ms, max:   10.40ms, stddev:     0.76ms, sum:   3.4sec, count: 1000
+all queries              :
+min:     0.51ms, med:     3.39ms, mean:     3.43ms, max:   10.40ms, stddev:     0.76ms, sum:   3.4sec, count: 1000
+wall clock time: 0.446354sec
+-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+FOR THE USE-CASE = groupby-orderby-limit
+Run complete after 1000 queries with 8 workers (Overall query rate 2272.58 queries/sec):
+QuestDB max cpu over last 5 min-intervals (random end):
+min:     0.52ms, med:     3.42ms, mean:     3.43ms, max:    7.31ms, stddev:     0.56ms, sum:   3.4sec, count: 1000
+all queries                                           :
+min:     0.52ms, med:     3.42ms, mean:     3.43ms, max:    7.31ms, stddev:     0.56ms, sum:   3.4sec, count: 1000
+wall clock time: 0.443687sec
+-------------------------------------------------------------------------------------------------------------------------------------
