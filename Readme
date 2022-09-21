@@ -1,8 +1,4 @@
-                 -------Description of the folder---------
-
-tsbs-master: Contain all the requirement code for the benchmarking operation.
-
-questdb-6.2.1-rt-linux-amd64:This folder contains the installation code for the questdb.
+                                                --------Description---------
 
 questdb-data.gz: Contains a compressed sample of the data that has been generated for one test.
 
